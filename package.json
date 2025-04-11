@@ -1,0 +1,15 @@
+{
+  "name": "mp4-thumbnail-changer",
+  "version": "1.0.0",
+  "description": "An Electron app to set thumbnails for MP4 files.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  },
+  "devDependencies": {
+    "electron": "^26.0.0"
+  }
+}
